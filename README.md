@@ -71,4 +71,4 @@ Diperoleh skor Mean Squared Error (MSE) :  1.825542535518884
  
 Note :
 * Untuk Tugas 2 sebelumnya berikut ini: https://github.com/Fanul1/TUGAS-2-ML bila membutuhkan detail analysis untuk EDAnya dikarenakan memiliki tahapan yang sama namun library yang digunakan berbeda.
-* Menggunakan versi libraries yang bisa dapat merubah hasil output yang ada sebelumnya.
+* Menggunakan versi libraries versi berbeda bisa dapat merubah hasil output yang ada sebelumnya.
