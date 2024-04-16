@@ -1,8 +1,8 @@
 ### TUGAS-3-ML Pertemuan 11 ANN
 
-### Cara menjalankan tugas
+### Langkah-langkah menjalankan tugas
 
-### Menyiapkan environtment
+### Menyiapkan environment
 
 1. Install virtualenv:
 
@@ -23,20 +23,18 @@
     ```
 
 ### Membuat clone repo ini
-    ```bash
+    
     git clone https://github.com/Fanul1/2108107010029_Pertemuan_11_ANN
-    ```
+
 Selanjutnya
-    ```bash
+
     cd 2108107010029_Pertemuan_11_ANN
-    ```
+
 ### Instalasi librari yang diperlukan
 3. Instal librari yang ada dari file `requirements.txt` file:
-    ```bash
     pip install -r requirements.txt
-    ```
 
-### Hasil perbandingan dengan ANN dengan SVM
+### Hasil perbandingan dengan ANN dengan SVM (SVC & SVR)
 1. Dari hasil pada file ANN-klasifikasi.ipynb diperoleh bahwasanya akurasi tidak berbeda jauh dengan yang ada pada SVMnya yakni selisihnya 7% atau 0.08. Dimana untuk ANN 0.83 atau 83% sedangkan untuk SVC 77% atau 0.77.
 2. Dari hasil pada file ANN-regresi.ipynb diperoleh bahwasanya akurasi tidak berbeda jauh dengan yang ada pada SVMnya yakni selisihnya % atau 0.0. Dimana untuk ANN 0. atau % sedangkan untuk SVR % atau 0..
  
